@@ -27,4 +27,4 @@ Overall, Dijkstra's algorithm is a powerful and widely used algorithm for findin
 
 
 
-![Screenshot](DIJ.png)
+![Screenshot](route.png)
